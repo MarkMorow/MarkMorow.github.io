@@ -10,9 +10,11 @@ nav_order: 3
 # Books
 
 ##### 2024
+
 The Definitive Guide to KQL: Using Kusto Query Language for Operations, Defending, and Threat Hunting [purchase options](https://www.microsoftpressstore.com/store/definitive-guide-to-kql-using-kusto-query-language-9780138293383).
 
 Microsoft Press: Exam Ref SC-900 (2nd Edition) [purchase options](https://www.microsoftpressstore.com/store/exam-ref-sc-900-microsoft-security-compliance-and-identity-9780138363734).
+
 ##### 2021
 
 Microsoft Press: Exam Ref SC-900 (1st Edition) [purchase options](https://www.microsoftpressstore.com/store/exam-ref-sc-900-microsoft-security-compliance-and-identity-9780137568109).
@@ -114,6 +116,7 @@ Decreasing Attacker Dwell Time in Azure Active Directory SANS [white paper](http
 Azure AD Mailbag: Identity Protection [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-mailbag-identity-protection/ba-p/1257350).
 
 Azure AD Mailbag: What is identity provisioning and why does it matter? [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-mailbag-what-is-identity-provisioning-and-why-does-it/ba-p/1257340).
+
 ##### 2019
 
 Azure AD Mailbag: Tips for Azure AD reportin and monitoring your day-to-day activies [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-mailbag-tips-for-azure-ad-reporting-and-monitoring-your/ba-p/566498).
@@ -141,6 +144,7 @@ Azure AD Mailbag: Q&A on Azure MFA [article](https://techcommunity.microsoft.com
 Azure AD Mailbag: Azure AD App Proxy [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-mailbag-azure-ad-app-proxy/ba-p/244213).
 
 Azure AD Mailbag: PowerShell trips and tricks [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-mailbag-powershell-tips-and-tricks/ba-p/244211).
+
 ##### 2015
 
 Azure Ad Mailbag: Syncing with Azure AD Connect [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-mailbag-syncing-with-azure-ad-connect/ba-p/244202).
@@ -148,15 +152,16 @@ Azure Ad Mailbag: Syncing with Azure AD Connect [article](https://techcommunity.
 Azure AD Mailbag: Self-Service Password Reset [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azuread-mailbag-self-service-password-reset/ba-p/244197).
 
 New Series: The Azure AD Mailbag [article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/new-series-the-azure-ad-mailbag/ba-p/244169).
+
 ##### 2011 to 2015
 
 When I was a Premier Field Engineer, several of us wrote on the AskPFEPlat blog. This is the tag to the 59 [posts](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog/label-name/MarkMorow).
 
-# Patents Awarded 
+# Patents Awarded
 
 ##### 2024
 
-Sharing security settings between entities using verifiable credentials [link](https://patents.google.com/patent/US20240171406A1/en?q=(bailey+marie)&inventor=bercik&oq=bailey+marie+bercik).
+Sharing security settings between entities using verifiable credentials [link](https://patents.google.com/patent/US20240171406A1).
 
 ##### 2022
 

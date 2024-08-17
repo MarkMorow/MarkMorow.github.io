@@ -18,4 +18,4 @@ I then tried installing Mac OS X 10.5 in Virtual Box, and I got a bit further al
 After that, it booted and installed as expected! I now have my test environment set up and ready to go!
 
 ![Leopard](/assets/img/Leopard_Running_VirtualBox.png)
-*Mac OS X 10.5 Leopard running in a VM in Virtual Box on Macbook Pro host*
+_Mac OS X 10.5 Leopard running in a VM in Virtual Box on Macbook Pro host_

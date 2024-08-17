@@ -7,6 +7,7 @@ tags: notes learning
 giscus_comments: true
 related_posts: false
 ---
+
 I'm a bit behind schedule on blog posts. June was a hectic month, and when I finally looked up, it was over. So where did my time go if I wasn't spent focusing on security research?
 
 As the homepage says, I enjoy watching baseball, hockey, and basketball outside of technology. That's a bit simplistic, and besides playing fantasy baseball, I'm also a member of the Society For American Baseball Research, better known as [SABR](https://sabr.org/). You might have heard this when you watched that Moneyball movie, ["Because he gets on base."](https://www.youtube.com/watch?v=3MjxoaynCmk) SABR was around long before that and continues long after. Though there is a significant focus on baseball stats, one of the things they do is preserve the history of the game. There are many aspects of that, but where I spent my time was on their [biography project](https://sabr.org/bioproject).

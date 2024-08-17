@@ -7,6 +7,7 @@ tag: notes
 giscus_comments: true
 related_posts: false
 ---
+
 It's a rule all technical blogs start with this post. You can read the home page for a bit more [about me](/), which I'll keep up to date.
 
 But just getting this up and running has helped me improve my Git, GitHub, and Markdown skills. You'll know they've really improved when I don't have to make several other pull requests to fix mistakes here.

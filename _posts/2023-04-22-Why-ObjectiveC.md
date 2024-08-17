@@ -7,6 +7,7 @@ tags: notes code learning
 giscus_comments: true
 related_posts: false
 ---
+
 'Why are you learning Objective-C? Everything is moving to Swift." This is usually the first thing someone will helpfully point out to me. They are not wrong either. If you were getting started in the iOS/iPadOS ecosystem, you would probably want to use Swift.
 
 When I look at Swift code somewhere, I have a rough idea of what it's trying to do. However, when I look at the Objective-C code, it looks like the cat walked across the keyboard when I was getting coffee.

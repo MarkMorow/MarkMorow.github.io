@@ -50,7 +50,7 @@ _Organization is unveified to start_
 
 This is where the DUNS number comes in. You add the DUNS number to your organazition in ABM. Apple will also call the verification contact to confirm information about your organization and ensure that it actually exists.
 
-![Pending](/assets/img/ABM_Setup_5_pending.png)
+![Pending](/assets/img/ABM_SetUp_5_Pending.png)
 
 _Organization is now pending_
 

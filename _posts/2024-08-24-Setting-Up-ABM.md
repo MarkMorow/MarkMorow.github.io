@@ -62,4 +62,4 @@ _Organization verification is now complete_
 
 The last thing I did at this time was to verify the domain I had purchased by following this [documentation](https://support.apple.com/en-ke/guide/apple-business-manager/axm48c3280c0/web). The TXT record hostname should be @ and the value will be something similar to "apple-domain-verification=YourUniqueValue". You can now create Managed Apple IDs/Managed Apple Accounts with that domain name.
 
-I'd also like to add that Tom Bridge gave an excellent session in July 2024 at PSU MacAdmins on Managed Apple IDs and showed some of these latest sign-up experiences in his [talk](https://youtu.be/xA0D6oVzcUk?si=Kd26UaruSl8kqhmR). 
+I'd also like to add that Tom Bridge gave an excellent session in July 2024 at PSU MacAdmins on Managed Apple IDs and showed some of these latest sign-up experiences in his [talk](https://youtu.be/xA0D6oVzcUk?si=Kd26UaruSl8kqhmR).

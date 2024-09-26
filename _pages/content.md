@@ -77,6 +77,8 @@ Microsoft Ignite: Azure Active Directory best practices from around the word [vi
 
 ##### 2024
 
+The Microsoft Threat Intelligence Podcast Episode 28 "The Inside Scoop on Using KQL for Cloud Data Security". [link](https://thecyberwire.com/podcasts/microsoft-threat-intelligence/28/notes)
+
 The Cloud Architects Episode 84 "Entra like Magenta". [link](https://thearchitects.cloud/2024/04/03/episode-84-entra-like-magenta/)
 
 ##### 2023
